@@ -4,7 +4,7 @@ información sobre proyectos académicos del grupo de patrones de diseño
 
 EXPOSITORES
 
-Esta es la lista de los patrones propuesta....
+0. Análisis todos los patrones y otros temas - Pedro Arciniegas
 1. Strategy - Manuel Arango
 2. Observer - Javier Linares
 3. Decorator - Daniel Torres
