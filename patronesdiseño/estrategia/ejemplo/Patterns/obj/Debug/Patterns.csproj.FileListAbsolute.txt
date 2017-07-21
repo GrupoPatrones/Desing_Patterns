@@ -1,0 +1,5 @@
+C:\Proyectos\Design Patterns\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Proyectos\Design Patterns\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Proyectos\Design Patterns\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Proyectos\Design Patterns\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Proyectos\Design Patterns\Patterns\Patterns\obj\Debug\Patterns.pdb
