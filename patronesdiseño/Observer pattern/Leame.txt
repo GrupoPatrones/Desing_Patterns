@@ -1,6 +1,9 @@
-Hola compaÒeros:
+Hola compa√±eros:
 
-Les estoy adjuntado el cÛdigo fuente del patrÛn observador que vimos en la clase del martes 18 de julio.
-En Èste encontr·n la soluciÛn con dos proyectos, [ClaseObserver] con el contenido de lo expuesto en la clase, y [ObserverPattern] con las 3 tÈcnicas aplicables al patrÛn observador mas comunmente usadas. Usando Net, Poo, y Eventos - Delegados.
-AsÌ mismo la presentaciÛn en powerpoint del patrÛn.
+Les estoy adjuntado el c√≥digo fuente del patr√≥n observador que vimos en la clase del martes 18 de julio.
+En √©ste encontr√°n la soluci√≥n con dos proyectos, [ClaseObserver] con el contenido de lo expuesto en la clase, y [ObserverPattern] con las 3 t√©cnicas aplicables al patr√≥n observador mas comunmente usadas. Usando Net, Poo, y Eventos - Delegados.
+As√≠ mismo la presentaci√≥n en powerpoint del patr√≥n.
 Gracias... :)
+
+
+JAVIER LINARES
