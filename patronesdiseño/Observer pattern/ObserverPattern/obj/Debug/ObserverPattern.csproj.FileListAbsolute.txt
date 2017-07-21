@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Patterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Patterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Patterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Patterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Patterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Patterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ObserverPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ObserverPattern\bin\Debug\Newtonsoft.Json.xml

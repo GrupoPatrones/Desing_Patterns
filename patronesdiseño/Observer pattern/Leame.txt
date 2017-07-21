@@ -1,0 +1,6 @@
+Hola compañeros:
+
+Les estoy adjuntado el código fuente del patrón observador que vimos en la clase del martes 18 de julio.
+En éste encontrán la solución con dos proyectos, [ClaseObserver] con el contenido de lo expuesto en la clase, y [ObserverPattern] con las 3 técnicas aplicables al patrón observador mas comunmente usadas. Usando Net, Poo, y Eventos - Delegados.
+Así mismo la presentación en powerpoint del patrón.
+Gracias... :)

@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ClaseObserver\bin\Debug\ClaseObserver.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ClaseObserver\bin\Debug\ClaseObserver.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ClaseObserver\bin\Debug\ClaseObserver.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ClaseObserver\obj\Debug\ClaseObserver.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ClaseObserver\obj\Debug\ClaseObserver.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Patterns\ClaseObserver\obj\Debug\ClaseObserver.pdb
