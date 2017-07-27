@@ -10,4 +10,4 @@ EXPOSITORES
 3. Decorator - Daniel Torres
 4. Factory   - Aley Olmos
 5. singleton - Jorge Ortiz
-6. Command   - 
+6. Command   - Jorge Molano
