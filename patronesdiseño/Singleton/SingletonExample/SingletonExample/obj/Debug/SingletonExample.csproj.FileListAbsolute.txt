@@ -1,0 +1,8 @@
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csprojResolveAssemblyReference.cache
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe.config
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\bin\Debug\SingletonExample.pdb
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\bin\Debug\SingletonImplement.dll
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\bin\Debug\SingletonImplement.pdb
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\obj\Debug\SingletonExample.exe
+C:\Jorge Ortiz\Personal\SingletonExample\SingletonExample\obj\Debug\SingletonExample.pdb
